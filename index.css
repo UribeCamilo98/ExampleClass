@@ -1,0 +1,19 @@
+.div-head{
+    background:rgb(11, 145, 150);
+    width:80%;
+    position:relative;
+    left:10%;
+    text-align: center;
+}
+.h1-head{
+
+    color: #fff;
+    padding-top: 20px;
+
+}
+
+.p-head{
+    color: #fff;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
